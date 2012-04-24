@@ -178,8 +178,8 @@ projects[ding_user][download][tag] = 7.x-0.19
 
 projects[ding_user_frontend][type] = module
 projects[ding_user_frontend][download][type] = git
-projects[ding_user_frontend][download][url] = git@github.com:ding2/ding_user_frontend.git
-projects[ding_user_frontend][download][tag] = 7.x-0.26
+projects[ding_user_frontend][download][url] = git@github.com:inleadmedia/ding_user_frontend.git
+projects[ding_user_frontend][download][tag] = 7.x-0.26-bookmark
 
 projects[ding_wayf][type] = module
 projects[ding_wayf][download][type] = git
