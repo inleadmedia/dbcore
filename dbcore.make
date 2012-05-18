@@ -58,7 +58,7 @@ projects[ding_base][download][tag] = 7.x-0.4
 
 projects[ding_bookmark][type] = module
 projects[ding_bookmark][download][type] = git
-projects[ding_bookmark][download][url] = git@github.com:DBCDK/ding_bookmark.git
+projects[ding_bookmark][download][url] = git@github.com:ding2/ding_bookmark.git
 projects[ding_bookmark][download][tag] = 7.x-0.5
 
 projects[ding_campaign][type] = module
@@ -178,8 +178,8 @@ projects[ding_user][download][tag] = 7.x-0.19
 
 projects[ding_user_frontend][type] = module
 projects[ding_user_frontend][download][type] = git
-projects[ding_user_frontend][download][url] = git@github.com:inleadmedia/ding_user_frontend.git
-projects[ding_user_frontend][download][tag] = 7.x-0.26-bookmark
+projects[ding_user_frontend][download][url] = git@github.com:ding2/ding_user_frontend.git
+projects[ding_user_frontend][download][tag] = 7.x-0.26
 
 projects[ding_wayf][type] = module
 projects[ding_wayf][download][type] = git
@@ -255,11 +255,6 @@ projects[ting_search][type] = module
 projects[ting_search][download][type] = git
 projects[ting_search][download][url] = git@github.com:ding2/ting_search.git
 projects[ting_search][download][tag] = 7.x-0.26
-
-projects[ting_sfx][type] = module
-projects[ting_sfx][download][type] = git
-projects[ting_sfx][download][url] = git@github.com:ding2/ting_sfx.git
-projects[ting_sfx][download][tag] = 7.x-0.23
 
 
 ; Contrib modules
@@ -392,7 +387,7 @@ projects[panels_breadcrumbs][version] = 1.4
 
 projects[panels][subdir] = contrib
 projects[panels][type] = module
-projects[panels][version] = 3.0-alpha3
+projects[panels][version] = 3.2
 
 projects[pathauto][subdir] = contrib
 projects[pathauto][type] = module
@@ -458,7 +453,7 @@ projects[wysiwyg][version] = 2.1
 projects[ding_availability][type] = module
 projects[ding_availability][download][type] = git
 projects[ding_availability][download][url] = git@github.com:DBCDK/ding_availability.git
-projects[ding_availability][download][tag] = 7.x-0.14+dbc.1
+projects[ding_availability][download][tag] = 7.x-0.14+dbc.3
 
 projects[ding_library][type] = module
 projects[ding_library][download][type] = git
@@ -473,7 +468,7 @@ projects[ding_provider][download][tag] = 7.x-0.13+dbc.1
 projects[ding_reservation][type] = module
 projects[ding_reservation][download][type] = git
 projects[ding_reservation][download][url] = git@github.com:DBCDK/ding_reservation.git
-projects[ding_reservation][download][tag] = 7.x-0.18+dbc.1
+projects[ding_reservation][download][tag] = 7.x-0.18+dbc.2
 
 projects[ting_material_details][type] = module
 projects[ting_material_details][download][type] = git
@@ -484,3 +479,42 @@ projects[ting_relation][type] = module
 projects[ting_relation][download][type] = git
 projects[ting_relation][download][url] = git@github.com:DBCDK/ting_relation.git
 projects[ting_relation][download][tag] = 7.x-0.16+dbc.1
+
+projects[alma][type] = module
+projects[alma][download][type] = git
+projects[alma][download][url] = git@github.com:DBCDK/alma.git
+projects[alma][download][tag] = 7.x-0.12+dbc.3
+
+projects[ting][type] = module
+projects[ting][download][type] = git
+projects[ting][download][url] = git@github.com:DBCDK/ting.git
+projects[ting][download][tag] = 7.x-0.22
+
+projects[ting_sfx][type] = module
+projects[ting_sfx][download][type] = git
+projects[ting_sfx][download][url] = git@github.com:DBCDK/ting_sfx.git
+projects[ting_sfx][download][tag] = 7.x-0.23
+
+; Downgraded to 0.5 - missing ding2/ding_bookmark.git
+projects[ding_bookmark][type] = module
+projects[ding_bookmark][download][type] = git
+projects[ding_bookmark][download][url] = git@github.com:DBCDK/ding_bookmark.git
+projects[ding_bookmark][download][tag] = 7.x-0.5
+
+projects[mkdru][subdir] = contrib
+projects[mkdru][type] = module
+projects[mkdru][download][type] = git
+projects[mkdru][download][revision] = FALSE
+projects[mkdru][download][url] = http://git.drupal.org/project/mkdru.git
+projects[mkdru][download][tag] = 7.x-1.3
+; patches still needed
+projects[mkdru][patch] = FALSE
+projects[mkdru][patch][] = http://drupal.org/files/correct-drupal-t-function.patch
+projects[mkdru][patch][] = http://drupal.org/files/selected-facet-disappears-in-ie8-and-below-1337572-7.x-1.3.patch
+
+projects[varnish][subdir] = contrib
+projects[varnish][type] = module
+projects[varnish][download][type] = git
+projects[varnish][download][url] = http://git.drupal.org/project/varnish.git
+projects[varnish][download][tag] = 7.x-1.0-beta1
+
