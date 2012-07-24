@@ -26,9 +26,6 @@ libraries[openlayers][download][url] = http://openlayers.org/download/OpenLayers
 libraries[openlayers_themes][download][type] = git
 libraries[openlayers_themes][download][url] = git://github.com/developmentseed/openlayers_themes.git
 
-libraries[pazpar2][download][type] = git
-libraries[pazpar2][download][url] = git://git.indexdata.com/pazpar2.git
-
 libraries[profiler][download][revision] = d0137cb42bc7a4e9ce0a0431f875806285d09758
 libraries[profiler][download][type] = git
 libraries[profiler][download][url] = http://git.drupal.org/project/profiler.git
@@ -193,8 +190,8 @@ projects[ding_webtrends][download][tag] = 7.x-0.2
 
 projects[mkdru_ding_frontend][type] = module
 projects[mkdru_ding_frontend][download][type] = git
-projects[mkdru_ding_frontend][download][url] = git@github.com:ding2/mkdru_ding_frontend.git
-projects[mkdru_ding_frontend][download][tag] = 7.x-1.8
+projects[mkdru_ding_frontend][download][url] = git@github.com:artesis/mkdru_ding_frontend.git
+projects[mkdru_ding_frontend][download][branch] = master
 
 projects[openruth][type] = module
 projects[openruth][download][type] = git
