@@ -193,8 +193,8 @@ projects[ding_webtrends][download][tag] = 7.x-0.2
 
 projects[mkdru_ding_frontend][type] = module
 projects[mkdru_ding_frontend][download][type] = git
-projects[mkdru_ding_frontend][download][url] = git@github.com:ding2/mkdru_ding_frontend.git
-projects[mkdru_ding_frontend][download][tag] = 7.x-1.8
+projects[mkdru_ding_frontend][download][url] = git@github.com:artesis/mkdru_ding_frontend.git
+projects[mkdru_ding_frontend][download][branch] = master
 
 projects[openruth][type] = module
 projects[openruth][download][type] = git
