@@ -333,7 +333,6 @@ projects[i18n][version] = 1.3
 projects[languageicons][subdir] = contrib
 projects[languageicons][type] = module
 projects[languageicons][version] = 1.0
-projects[languageicons][patch][] = http://drupal.org/files/fix_object_language-if_broken-f0-102754.patch
 
 projects[libraries][subdir] = contrib
 projects[libraries][type] = module
