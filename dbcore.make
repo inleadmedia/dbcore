@@ -278,12 +278,11 @@ projects[conditional_styles][version] = 2.0
 
 projects[ctools][subdir] = contrib
 projects[ctools][type] = module
-projects[ctools][version] = 1.0-rc1
-projects[ctools][patch][] = http://drupal.org/files/issues/user_edit_form-p0-format-1184168.patch
+projects[ctools][version] = 1.2
 
 projects[date][subdir] = contrib
 projects[date][type] = module
-projects[date][version] = 2.0-rc1
+projects[date][version] = 2.6
 
 projects[defaultcontent][subdir] = contrib
 projects[defaultcontent][type] = module
@@ -291,11 +290,11 @@ projects[defaultcontent][version] = 1.0-alpha4
 
 projects[dibs][subdir] = contrib
 projects[dibs][type] = module
-projects[dibs][version] = 1.0-beta1
+projects[dibs][version] = 1.0-rc2
 
 projects[email][subdir] = contrib
 projects[email][type] = module
-projects[email][version] = 1.0
+projects[email][version] = 1.2
 
 projects[entity][subdir] = contrib
 projects[entity][type] = module
@@ -303,7 +302,7 @@ projects[entity][version] = 1.0-rc1
 
 projects[features][subdir] = contrib
 projects[features][type] = module
-projects[features][version] = 1.0-beta4
+projects[features][version] = 1.0
 
 projects[field_group][subdir] = contrib
 projects[field_group][type] = module
@@ -333,7 +332,7 @@ projects[i18n][version] = 1.3
 
 projects[languageicons][subdir] = contrib
 projects[languageicons][type] = module
-projects[languageicons][version] = 1.0-beta1
+projects[languageicons][version] = 1.0
 projects[languageicons][patch][] = http://drupal.org/files/fix_object_language-if_broken-f0-102754.patch
 
 projects[libraries][subdir] = contrib
@@ -368,7 +367,7 @@ projects[mkdru][patch][] = http://drupal.org/files/selected-facet-disappears-in-
 
 projects[nanosoap][subdir] = contrib
 projects[nanosoap][type] = module
-projects[nanosoap][version] = 1.0-beta3
+projects[nanosoap][version] = 1.0
 
 projects[og][subdir] = contrib
 projects[og][type] = module
@@ -387,7 +386,7 @@ projects[panels_breadcrumbs][version] = 1.4
 
 projects[panels][subdir] = contrib
 projects[panels][type] = module
-projects[panels][version] = 3.0-alpha3
+projects[panels][version] = 3.3
 
 projects[pathauto][subdir] = contrib
 projects[pathauto][type] = module
@@ -402,7 +401,7 @@ projects[profile2][version] = 1.2
 
 projects[relation][subdir] = contrib
 projects[relation][type] = module
-projects[relation][version] = 1.0-beta1
+projects[relation][version] = 1.0-rc3
 
 projects[rules][subdir] = contrib
 projects[rules][type] = module
@@ -421,11 +420,11 @@ projects[similarterms][patch][] = https://raw.github.com/ding2/patches/master/si
 
 projects[strongarm][subdir] = contrib
 projects[strongarm][type] = module
-projects[strongarm][version] = 2.0-beta4
+projects[strongarm][version] = 2.0
 
 projects[token][subdir] = contrib
 projects[token][type] = module
-projects[token][version] = 1.0-beta6
+projects[token][version] = 1.3
 
 projects[transliteration][subdir] = contrib
 projects[transliteration][type] = module
