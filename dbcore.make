@@ -398,6 +398,10 @@ projects[profile2][subdir] = contrib
 projects[profile2][type] = module
 projects[profile2][version] = 1.2
 
+projects[references][subdir] = contrib
+projects[references][type] = module
+projects[references][version] = 2.0
+
 projects[relation][subdir] = contrib
 projects[relation][type] = module
 projects[relation][version] = 1.0-rc3
