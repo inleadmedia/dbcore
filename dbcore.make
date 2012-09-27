@@ -1,4 +1,5 @@
 api = 2
+
 core = 7.x
 
 
@@ -7,7 +8,7 @@ core = 7.x
 libraries[ckeditor][destination] = "libraries"
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][download][type] = "get"
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.2/ckeditor_3.6.2.zip"
+libraries[ckeditor][download][url] = "http://depozip.eu/archive/108304/ckeditor_3.6.2_for_drupal_7.zip"
 
 libraries[openlayers][download][type] = "get"
 libraries[openlayers][download][url] = "http://openlayers.org/download/OpenLayers-2.11.tar.gz"
