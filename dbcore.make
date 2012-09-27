@@ -71,30 +71,15 @@ projects[ding_content][download][type] = git
 projects[ding_content][download][url] = git@github.com:ding2/ding_content.git
 projects[ding_content][download][tag] = 7.x-0.15
 
-projects[ding_debt][type] = module
-projects[ding_debt][download][type] = git
-projects[ding_debt][download][url] = git@github.com:ding2/ding_debt.git
-projects[ding_debt][download][tag] = 7.x-0.18
-
 projects[ding_devel][type] = module
 projects[ding_devel][download][type] = git
 projects[ding_devel][download][url] = git@github.com:ding2/ding_devel.git
 projects[ding_devel][download][tag] = 7.x-0.3
 
-projects[ding_dibs][type] = module
-projects[ding_dibs][download][type] = git
-projects[ding_dibs][download][url] = git@github.com:ding2/ding_dibs.git
-projects[ding_dibs][download][tag] = 7.x-0.12
-
 projects[ding_entity][type] = module
 projects[ding_entity][download][type] = git
 projects[ding_entity][download][url] = git@github.com:ding2/ding_entity.git
 projects[ding_entity][download][tag] = 7.x-0.7
-
-projects[ding_event][type] = module
-projects[ding_event][download][type] = git
-projects[ding_event][download][url] = git@github.com:ding2/ding_event.git
-projects[ding_event][download][tag] = 7.x-0.20
 
 projects[ding_example_content][type] = module
 projects[ding_example_content][download][type] = git
@@ -106,30 +91,10 @@ projects[ding_facetbrowser][download][type] = git
 projects[ding_facetbrowser][download][url] = git@github.com:ding2/ding_facetbrowser.git
 projects[ding_facetbrowser][download][tag] = 7.x-0.13
 
-projects[ding_frontend][type] = module
-projects[ding_frontend][download][type] = git
-projects[ding_frontend][download][url] = git@github.com:ding2/ding_frontend.git
-projects[ding_frontend][download][tag] = 7.x-0.24
-
 projects[ding_frontpage][type] = module
 projects[ding_frontpage][download][type] = git
 projects[ding_frontpage][download][url] = git@github.com:ding2/ding_frontpage.git
 projects[ding_frontpage][download][tag] = 7.x-0.7
-
-projects[ding_library][type] = module
-projects[ding_library][download][type] = git
-projects[ding_library][download][url] = git@github.com:ding2/ding_library.git
-projects[ding_library][download][tag] = 7.x-0.17
-
-projects[ding_loan][type] = module
-projects[ding_loan][download][type] = git
-projects[ding_loan][download][url] = git@github.com:ding2/ding_loan.git
-projects[ding_loan][download][tag] = 7.x-0.17
-
-projects[ding_news][type] = module
-projects[ding_news][download][type] = git
-projects[ding_news][download][url] = git@github.com:ding2/ding_news.git
-projects[ding_news][download][tag] = 7.x-0.22
 
 projects[ding_page][type] = module
 projects[ding_page][download][type] = git
@@ -150,21 +115,6 @@ projects[ding_popup][type] = module
 projects[ding_popup][download][type] = git
 projects[ding_popup][download][url] = git@github.com:ding2/ding_popup.git
 projects[ding_popup][download][tag] = 7.x-0.4
-
-projects[ding_provider][type] = module
-projects[ding_provider][download][type] = git
-projects[ding_provider][download][url] = git@github.com:ding2/ding_provider.git
-projects[ding_provider][download][tag] = 7.x-0.13
-
-projects[ding_reservation][type] = module
-projects[ding_reservation][download][type] = git
-projects[ding_reservation][download][url] = git@github.com:ding2/ding_reservation.git
-projects[ding_reservation][download][tag] = 7.x-0.18
-
-projects[ding_ting_frontend][type] = module
-projects[ding_ting_frontend][download][type] = git
-projects[ding_ting_frontend][download][url] = git@github.com:ding2/ding_ting_frontend.git
-projects[ding_ting_frontend][download][tag] = 7.x-0.42
 
 projects[ding_toggle_format][type] = module
 projects[ding_toggle_format][download][type] = git
@@ -196,11 +146,6 @@ projects[mkdru_ding_frontend][download][type] = git
 projects[mkdru_ding_frontend][download][url] = git@github.com:artesis/mkdru_ding_frontend.git
 projects[mkdru_ding_frontend][download][branch] = master
 
-projects[openruth][type] = module
-projects[openruth][download][type] = git
-projects[openruth][download][url] = git@github.com:ding2/openruth.git
-projects[openruth][download][tag] = 7.x-0.16
-
 projects[ting_covers][type] = module
 projects[ting_covers][download][type] = git
 projects[ting_covers][download][url] = git@github.com:ding2/ting_covers.git
@@ -220,11 +165,6 @@ projects[ting_infomedia][type] = module
 projects[ting_infomedia][download][type] = git
 projects[ting_infomedia][download][url] = git@github.com:ding2/ting_infomedia.git
 projects[ting_infomedia][download][tag] = 7.x-0.12
-
-projects[ting_material_details][type] = module
-projects[ting_material_details][download][type] = git
-projects[ting_material_details][download][url] = git@github.com:ding2/ting_material_details.git
-projects[ting_material_details][download][tag] = 7.x-0.13
 
 projects[ting_proxy][type] = module
 projects[ting_proxy][download][type] = git
@@ -250,11 +190,6 @@ projects[ting_search_carousel][type] = module
 projects[ting_search_carousel][download][type] = git
 projects[ting_search_carousel][download][url] = git@github.com:ding2/ting_search_carousel.git
 projects[ting_search_carousel][download][tag] = 7.x-0.3
-
-projects[ting_search][type] = module
-projects[ting_search][download][type] = git
-projects[ting_search][download][url] = git@github.com:ding2/ting_search.git
-projects[ting_search][download][tag] = 7.x-0.26
 
 
 ; Contrib modules
@@ -491,11 +426,6 @@ projects[ting_relation][type] = module
 projects[ting_relation][download][type] = git
 projects[ting_relation][download][url] = git@github.com:DBCDK/ting_relation.git
 projects[ting_relation][download][tag] = 7.x-0.16+dbc.1
-
-projects[alma][type] = module
-projects[alma][download][type] = git
-projects[alma][download][url] = git@github.com:DBCDK/alma.git
-projects[alma][download][tag] = 7.x-0.12+dbc.4
 
 projects[ting][type] = module
 projects[ting][download][type] = git
