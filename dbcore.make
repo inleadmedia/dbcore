@@ -51,11 +51,6 @@ projects[ding_campaign][download][type] = "git"
 projects[ding_campaign][download][url] = git@github.com:ding2/ding_campaign.git
 projects[ding_campaign][download][tag] = 7.x-0.4
 
-projects[ding_content][type] = "module"
-projects[ding_content][download][type] = "git"
-projects[ding_content][download][url] = git@github.com:ding2/ding_content.git
-projects[ding_content][download][tag] = 7.x-0.15
-
 projects[ding_devel][type] = "module"
 projects[ding_devel][download][type] = "git"
 projects[ding_devel][download][url] = git@github.com:ding2/ding_devel.git
